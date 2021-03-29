@@ -32,5 +32,4 @@ class FVec{
 
     void copy(const FVec&);
     void move(FVec&&);
-    //konstruktor prywatny wywolywany w create
 };
